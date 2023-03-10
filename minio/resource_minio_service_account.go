@@ -8,7 +8,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	"github.com/minio/madmin-go"
+	"github.com/minio/madmin-go/v2"
 )
 
 func resourceMinioServiceAccount() *schema.Resource {

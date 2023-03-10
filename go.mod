@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/awspolicyequivalence v1.6.0
 	github.com/hashicorp/go-cty v1.4.1-0.20200723130312-85980079f637
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.25.0
-	github.com/minio/madmin-go v1.7.5
+	github.com/minio/madmin-go/v2 v2.0.15
 	github.com/minio/minio-go/v7 v7.0.49
 	gotest.tools/v3 v3.4.0
 )
@@ -60,7 +60,7 @@ require (
 	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/rs/xid v1.4.0 // indirect
 	github.com/secure-io/sio-go v0.3.1 // indirect
-	github.com/shirou/gopsutil/v3 v3.22.9 // indirect
+	github.com/shirou/gopsutil/v3 v3.23.1 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/tinylib/msgp v1.1.8 // indirect
 	github.com/tklauser/go-sysconf v0.3.11 // indirect
